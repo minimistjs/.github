@@ -1,8 +1,8 @@
 # Contributing
 
-:+1::tada: First off, thanks for taking the time to contribute to `Inspect-JS`! :tada::+1:
+:+1::tada: First off, thanks for taking the time to contribute to minimist! :tada::+1:
 
-The following is a set of guidelines for contributing to `Inspect-JS` managed by [@LJHarb](https://github.com/ljharb), which are hosted on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+The following is a set of guidelines for contributing to `minimist-js` managed by [@LJHarb](https://github.com/ljharb), which are hosted on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 # How Can I Contribute?
 
@@ -41,9 +41,9 @@ We are happy to welcome contributions from anyone willing to improve documentati
   ```
   npm install
   ```
-* Add the upstream source for being able to sync main project changes back into your fork. For example, to configure an upstream remote repository for a fork of https://github.com/inspect-js/object-inspect run:
+* Add the upstream source for being able to sync main project changes back into your fork. For example, to configure an upstream remote repository for a fork of https://github.com/minimistjs/minimist run:
   ```
-  git remote add upstream git@github.com:inspect-js/object-inspect.git
+  git remote add upstream git@github.com:minimistjs/minimist.git
   ```
 * Run the tests and the build
   ```
@@ -115,7 +115,7 @@ Co-authored-by: Name Here <email@here>
 
 
 # Code of Conduct
-[Code of Conduct](https://github.com/inspect-js/.github/blob/HEAD/CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/minimistjs/.github/blob/HEAD/CODE_OF_CONDUCT.md)
 
 # Where can I ask for help?
 If you have any questions, please contact [@LJHarb](mailto:ljharb@gmail.com).
